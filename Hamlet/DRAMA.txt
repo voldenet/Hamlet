@@ -1,0 +1,202 @@
+>FRANCISCO
+*NARRATOR A platform before the castle. Francisco at his post.
+>BERNARDO
+BERNARDO Who's there?
+FRANCISCO Nay, answer me: stand, and unfold yourself.
+BERNARDO Long live the king!
+FRANCISCO Bernardo?
+BERNARDO He.
+FRANCISCO You come most carefully upon your hour.
+BERNARDO 'Tis now struck twelve; get thee to bed, Francisco.
+FRANCISCO For this relief much thanks: 'tis bitter cold,
+FRANCISCO And I am sick at heart.
+BERNARDO Have you had quiet guard?
+FRANCISCO Not a mouse stirring.
+BERNARDO Well, good night.
+BERNARDO If you do meet Horatio and Marcellus,
+BERNARDO The rivals of my watch, bid them make haste.
+FRANCISCO I think I hear them. Stand, ho! Who's there?
+>HORATIO
+>MARCELLUS
+HORATIO Friends to this ground.
+MARCELLUS And liegemen to the Dane.
+FRANCISCO Give you good night.
+MARCELLUS O, farewell, honest soldier:
+MARCELLUS Who hath relieved you?
+FRANCISCO Bernardo has my place.
+MARCELLUS Give you good night.
+<FRANCISCO
+MARCELLUS Holla! Bernardo!
+BERNARDO Say,
+BERNARDO What, is Horatio there?
+HORATIO A piece of him.
+BERNARDO Welcome, Horatio: welcome, good Marcellus.
+MARCELLUS What, has this thing appear'd again to-night?
+BERNARDO I have seen nothing.
+MARCELLUS Horatio says 'tis but our fantasy,
+MARCELLUS And will not let belief take hold of him
+MARCELLUS Touching this dreaded sight, twice seen of us:
+MARCELLUS Therefore I have entreated him along
+MARCELLUS With us to watch the minutes of this night;
+MARCELLUS That if again this apparition come,
+MARCELLUS He may approve our eyes and speak to it.
+HORATIO Tush, tush, 'twill not appear.
+BERNARDO Sit down awhile;
+BERNARDO And let us once again assail your ears,
+BERNARDO That are so fortified against our story
+BERNARDO What we have two nights seen.
+HORATIO Well, sit we down,
+HORATIO And let us hear Bernardo speak of this.
+BERNARDO Last night of all,
+BERNARDO When yond same star that's westward from the pole
+BERNARDO Had made his course to illume that part of heaven
+BERNARDO Where now it burns, Marcellus and myself,
+BERNARDO The bell then beating one,--
+>GHOST
+MARCELLUS Peace, break thee off; look, where it comes again!
+BERNARDO In the same figure, like the king that's dead.
+MARCELLUS Thou art a scholar; speak to it, Horatio.
+BERNARDO Looks it not like the king? mark it, Horatio.
+HORATIO Most like: it harrows me with fear and wonder.
+BERNARDO It would be spoke to.
+MARCELLUS Question it, Horatio.
+HORATIO What art thou that usurp'st this time of night,
+HORATIO Together with that fair and warlike form
+HORATIO In which the majesty of buried Denmark
+HORATIO Did sometimes march? by heaven I charge thee, speak!
+MARCELLUS It is offended.
+BERNARDO See, it stalks away!
+HORATIO Stay! speak, speak! I charge thee, speak!
+<GHOST
+MARCELLUS 'Tis gone, and will not answer.
+BERNARDO How now, Horatio! you tremble and look pale:
+BERNARDO Is not this something more than fantasy?
+BERNARDO What think you on't?
+HORATIO Before my God, I might not this believe
+HORATIO Without the sensible and true avouch
+HORATIO Of mine own eyes.
+MARCELLUS Is it not like the king?
+HORATIO As thou art to thyself:
+HORATIO Such was the very armour he had on
+HORATIO When he the ambitious Norway combated;
+HORATIO So frown'd he once, when, in an angry parle,
+HORATIO He smote the sledded Polacks on the ice.
+HORATIO 'Tis strange.
+MARCELLUS Thus twice before, and jump at this dead hour,
+MARCELLUS With martial stalk hath he gone by our watch.
+HORATIO In what particular thought to work I know not;
+HORATIO But in the gross and scope of my opinion,
+HORATIO This bodes some strange eruption to our state.
+MARCELLUS Good now, sit down, and tell me, he that knows,
+MARCELLUS Why this same strict and most observant watch
+MARCELLUS So nightly toils the subject of the land,
+MARCELLUS And why such daily cast of brazen cannon,
+MARCELLUS And foreign mart for implements of war;
+MARCELLUS Why such impress of shipwrights, whose sore task
+MARCELLUS Does not divide the Sunday from the week;
+MARCELLUS What might be toward, that this sweaty haste
+MARCELLUS Doth make the night joint-labourer with the day:
+MARCELLUS Who is't that can inform me?
+HORATIO That can I;
+HORATIO At least, the whisper goes so. Our last king,
+HORATIO Whose image even but now appear'd to us,
+HORATIO Was, as you know, by Fortinbras of Norway,
+HORATIO Thereto prick'd on by a most emulate pride,
+HORATIO Dared to the combat; in which our valiant Hamlet--
+HORATIO For so this side of our known world esteem'd him--
+HORATIO Did slay this Fortinbras; who by a seal'd compact,
+HORATIO Well ratified by law and heraldry,
+HORATIO Did forfeit, with his life, all those his lands
+HORATIO Which he stood seized of, to the conqueror:
+HORATIO Against the which, a moiety competent
+HORATIO Was gaged by our king; which had return'd
+HORATIO To the inheritance of Fortinbras,
+HORATIO Had he been vanquisher; as, by the same covenant,
+HORATIO And carriage of the article design'd,
+HORATIO His fell to Hamlet. Now, sir, young Fortinbras,
+HORATIO Of unimproved mettle hot and full,
+HORATIO Hath in the skirts of Norway here and there
+HORATIO Shark'd up a list of lawless resolutes,
+HORATIO For food and diet, to some enterprise
+HORATIO That hath a stomach in't; which is no other--
+HORATIO As it doth well appear unto our state--
+HORATIO But to recover of us, by strong hand
+HORATIO And terms compulsatory, those foresaid lands
+HORATIO So by his father lost: and this, I take it,
+HORATIO Is the main motive of our preparations,
+HORATIO The source of this our watch and the chief head
+HORATIO Of this post-haste and romage in the land.
+BERNARDO I think it be no other but e'en so:
+BERNARDO Well may it sort that this portentous figure
+BERNARDO Comes armed through our watch; so like the king
+BERNARDO That was and is the question of these wars.
+HORATIO A mote it is to trouble the mind's eye.
+HORATIO In the most high and palmy state of Rome,
+HORATIO A little ere the mightiest Julius fell,
+HORATIO The graves stood tenantless and the sheeted dead
+HORATIO Did squeak and gibber in the Roman streets:
+HORATIO As stars with trains of fire and dews of blood,
+HORATIO Disasters in the sun; and the moist star
+HORATIO Upon whose influence Neptune's empire stands
+HORATIO Was sick almost to doomsday with eclipse:
+HORATIO And even the like precurse of fierce events,
+HORATIO As harbingers preceding still the fates
+HORATIO And prologue to the omen coming on,
+HORATIO Have heaven and earth together demonstrated
+HORATIO Unto our climatures and countrymen.--
+HORATIO But soft, behold! lo, where it comes again!
+>GHOST
+HORATIO I'll cross it, though it blast me. Stay, illusion!
+HORATIO If thou hast any sound, or use of voice,
+HORATIO Speak to me:
+HORATIO If there be any good thing to be done,
+HORATIO That may to thee do ease and grace to me,
+HORATIO Speak to me:
+*COCK crows
+HORATIO If thou art privy to thy country's fate,
+HORATIO Which, happily, foreknowing may avoid, O, speak!
+HORATIO Or if thou hast uphoarded in thy life
+HORATIO Extorted treasure in the womb of earth,
+HORATIO For which, they say, you spirits oft walk in death,
+HORATIO Speak of it: stay, and speak! Stop it, Marcellus.
+MARCELLUS Shall I strike at it with my partisan?
+HORATIO Do, if it will not stand.
+BERNARDO 'Tis here!
+HORATIO 'Tis here!
+MARCELLUS 'Tis gone!
+<GHOST
+MARCELLUS We do it wrong, being so majestical,
+MARCELLUS To offer it the show of violence;
+MARCELLUS For it is, as the air, invulnerable,
+MARCELLUS And our vain blows malicious mockery.
+BERNARDO It was about to speak, when the cock crew.
+HORATIO And then it started like a guilty thing
+HORATIO Upon a fearful summons. I have heard,
+HORATIO The cock, that is the trumpet to the morn,
+HORATIO Doth with his lofty and shrill-sounding throat
+HORATIO Awake the god of day; and, at his warning,
+HORATIO Whether in sea or fire, in earth or air,
+HORATIO The extravagant and erring spirit hies
+HORATIO To his confine: and of the truth herein
+HORATIO This present object made probation.
+MARCELLUS It faded on the crowing of the cock.
+MARCELLUS Some say that ever 'gainst that season comes
+MARCELLUS Wherein our Saviour's birth is celebrated,
+MARCELLUS The bird of dawning singeth all night long:
+MARCELLUS And then, they say, no spirit dares stir abroad;
+MARCELLUS The nights are wholesome; then no planets strike,
+MARCELLUS No fairy takes, nor witch hath power to charm,
+MARCELLUS So hallow'd and so gracious is the time.
+HORATIO So have I heard and do in part believe it.
+HORATIO But, look, the morn, in russet mantle clad,
+HORATIO Walks o'er the dew of yon high eastward hill:
+HORATIO Break we our watch up; and by my advice,
+HORATIO Let us impart what we have seen to-night
+HORATIO Unto young Hamlet; for, upon my life,
+HORATIO This spirit, dumb to us, will speak to him.
+HORATIO Do you consent we shall acquaint him with it,
+HORATIO As needful in our loves, fitting our duty?
+MARCELLUS Let's do't, I pray; and I this morning know
+MARCELLUS Where we shall find him most conveniently.
+<HORATIO
+<MARCELLUS
